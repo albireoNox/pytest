@@ -3,4 +3,5 @@ python: 2.7
 
 script: python -m unittest discover
 notifications:
-email: false
+  email:
+    - nwilson@systemsbiology.org
