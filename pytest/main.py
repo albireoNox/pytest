@@ -4,9 +4,11 @@ __author__ = 'nwilson'
 
 import sys
 import ConfigParser
-import os
 
 if __name__ == "__main__":
+
+    #This is a comment!
+
     config = ConfigParser.ConfigParser()
     config.read("util/pytest.config")
 
