@@ -7,10 +7,6 @@ import ConfigParser
 
 if __name__ == "__main__":
 
-    #This is a comment!
-    #This is also a comment!
-    #This is definitely not a comment though.
-
     config = ConfigParser.ConfigParser()
     config.read("util/pytest.config")
 
