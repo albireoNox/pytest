@@ -5,7 +5,6 @@ __author__ = 'nwilson'
 import sys
 import ConfigParser
 
-
 if __name__ == "__main__":
 
     config = ConfigParser.ConfigParser()
